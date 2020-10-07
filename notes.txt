@@ -1,0 +1,3 @@
+$this->middleware('auth:admin');
+trong do auth la ten cua middleware,
+admin la ten cua guard
